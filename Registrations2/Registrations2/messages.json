@@ -1,0 +1,65 @@
+[
+  {
+    "messageID": "4225239805",
+    "messageNumber": 0,
+    "recipient": "+27123456789",
+    "messageText": "Hello Gomotsang",
+    "messageHash": "42:1:HELLOGOMOTSANG"
+  },
+  {
+    "messageID": "7721925939",
+    "messageNumber": 1,
+    "recipient": "+27789451236",
+    "messageText": "Good chomi",
+    "messageHash": "77:2:GOODCHOMI"
+  },
+  {
+    "messageID": "7101951401",
+    "messageNumber": 2,
+    "recipient": "+27123456789",
+    "messageText": "Hello",
+    "messageHash": "71:1:HELLOHELLO"
+  },
+  {
+    "messageID": "6712998428",
+    "messageNumber": 3,
+    "recipient": "+27589745632",
+    "messageText": "how are you?",
+    "messageHash": "67:2:HOWYOU"
+  },
+  {
+    "messageID": "3793161467",
+    "messageNumber": 4,
+    "recipient": "+27789456123",
+    "messageText": "good and yourself",
+    "messageHash": "37:3:GOODYOURSELF"
+  },
+  {
+    "messageID": "8040002456",
+    "messageNumber": 5,
+    "recipient": "+27987321654",
+    "messageText": "great day",
+    "messageHash": "80:4:GREATDAY"
+  },
+  {
+    "messageID": "8901913858",
+    "messageNumber": 6,
+    "recipient": "+27123456789",
+    "messageText": "Hello kyle",
+    "messageHash": "89:1:HELLOKYLE"
+  },
+  {
+    "messageID": "4645756080",
+    "messageNumber": 7,
+    "recipient": "+27789456123",
+    "messageText": "How are you doing?",
+    "messageHash": "46:2:HOWDOING"
+  },
+  {
+    "messageID": "1923351919",
+    "messageNumber": 8,
+    "recipient": "+27897465321",
+    "messageText": "Great",
+    "messageHash": "19:3:GREATGREAT"
+  }
+]
